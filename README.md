@@ -1,6 +1,6 @@
 # 💫 About Me:
 My Website: https://biruk-tariku.github.io/ <br>
-🔭 I’m currently studying full-stack development,I am interested in Full-stack development And ML <br>👯 I’m looking to collaborate on any fun, Christian and Educational projects<br>🌱currently i'm a Computer science student at Unity University<br>And Software-Engineering student at ALX<br>💬 Ask me about any thing<br>⚡ Fun fact I'm Lazy but Smart
+🔭 full-stack developer,interested in ML,Ai <br>👯 I’m looking to collaborate on any fun, Christian and Educational projects<br>🌱currently i'm a Computer science student at Unity University<br>And Software-Engineering student at ALX<br>💬 Ask me about any thing<br>⚡ Fun fact I'm Lazy but Smart
 
 
 ## 🌐 Socials:
